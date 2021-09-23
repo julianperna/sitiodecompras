@@ -1,5 +1,5 @@
 {
-  "listaProductos":[
+  "listaProductos": [
     {
       "titulo": "Nintendo Switch",
       "imagen": "https://images-na.ssl-images-amazon.com/images/I/71ivrWiYkLL._AC_.jpg",
@@ -15,10 +15,10 @@
       "stock": 3
     },
     {
-      "titulo": "PC CORE I3 Haswell",
-      "imagen": "https://tecnogaming.com/wp-content/uploads/2016/04/PC-de-PCBOX-con-w10.jpg",
-      "descripcion": "PC CORE I3 Haswell Black",
-      "precio": " 9.599",
+      "titulo": "Apple MacBook Pro A2337",
+      "imagen": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "descripcion": "GPU de hasta 8 núcleos con gráficos hasta 5 veces más veloces para apps y juegos con gráficos avanzados (2).",
+      "precio": " 189.599",
       "stock": 7
     },
     {
@@ -39,7 +39,7 @@
       "titulo": "PlayStation 5",
       "imagen": "https://blog.latam.playstation.com/tachyon/sites/3/2020/11/ps5-featured.jpg?resize=1088,612&crop_strategy=smart",
       "descripcion": "Sony apuesta por la innovación con un mando DualSense que es el compañero perfecto para un hardware muy potente",
-      "precio": 	"504.900",
+      "precio": "504.900",
       "stock": 9
     }
   ]
