@@ -19,25 +19,28 @@ class FichaProducto extends React.Component {
     }));
   }
   agregarCarrito() {
+    const badge = document.getElementById("Badge1");
+       if(this.state.stock > 0) {
     listaCarrito.push({
       "titulo": this.props.props.titulo,
       "precio": this.props.props.precio
       
     });
+    
+            this.toggle();
    this.setState(prevState => ({
+       stock : prevState.stock - 1,
      modal: !prevState.modal,
    }));
    
-   if (this.state.stock != 0){
-   this.setState((prevState) => ({
-     stock: prevState.stock -1
-   }));
+    badge.innerText=listaCarrito.length;
    } else{
      alert("STOCK AGOTADO")
+     this.toggle();
    }
-   const badge= document.getElementById("Badge1");
-   badge.innerText=listaCarrito.length;
+  
   }
+
   render() {
     return (
       <Container>
@@ -55,7 +58,7 @@ class FichaProducto extends React.Component {
               pesos.
             </p>
             <p>
-              Hay <b>{this.state.stock}</b> unidades de este producto
+              Hay <b>{this.state.stock}</b>unidades de este producto
               disponibles.
             </p>
           </ModalBody>
