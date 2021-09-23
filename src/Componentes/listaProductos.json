@@ -1,0 +1,46 @@
+{
+  "listaProductos":[
+    {
+      "titulo": "Nintendo Switch",
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/71ivrWiYkLL._AC_.jpg",
+      "descripcion": "Consola Nintendo Switch Black",
+      "precio": "369.990",
+      "stock": 8
+    },
+    {
+      "titulo": "Consola XBOX ONE",
+      "imagen": "https://compass-ssl.xbox.com/assets/dd/2e/dd2ef163-a130-403a-a394-a5b11c1533c8.jpg?n=Xbox-Family_Image-0_X1S-1111_496x279.jpg",
+      "descripcion": "Consola Xbox One solo juegos digitales ",
+      "precio": "80.999",
+      "stock": 3
+    },
+    {
+      "titulo": "PC CORE I3 Haswell",
+      "imagen": "https://tecnogaming.com/wp-content/uploads/2016/04/PC-de-PCBOX-con-w10.jpg",
+      "descripcion": "PC CORE I3 Haswell Black",
+      "precio": " 9.599",
+      "stock": 7
+    },
+    {
+      "titulo": "LG Smart TV AI FHD 43",
+      "imagen": "https://www.lg.com/ar/images/televisores/md06198517/gallery/medium10.jpg",
+      "descripcion": "Único modelo de TV Full HD con Magic Remote ",
+      "precio": "54.999",
+      "stock": 5
+    },
+    {
+      "titulo": "iPhone 12 Pro Max",
+      "imagen": "https://www.pcworld.es/cmsdata/slideshow/3678899/mejores-smartphones_iphone-12-max_thumb800.jpg",
+      "descripcion": "Ofrece uno de los mejores rendimientos del mercado, 5G (por primera vez en un iPhone) y una bonita pantalla OLED de 6,7",
+      "precio": "326.990",
+      "stock": 10
+    },
+    {
+      "titulo": "PlayStation 5",
+      "imagen": "https://blog.latam.playstation.com/tachyon/sites/3/2020/11/ps5-featured.jpg?resize=1088,612&crop_strategy=smart",
+      "descripcion": "Sony apuesta por la innovación con un mando DualSense que es el compañero perfecto para un hardware muy potente",
+      "precio": 	"504.900",
+      "stock": 9
+    }
+  ]
+}
