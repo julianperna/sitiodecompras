@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sitiodecompras/static/css/main.faba022c.chunk.css",
+    "main.js": "/sitiodecompras/static/js/main.1f70dc30.chunk.js",
+    "main.js.map": "/sitiodecompras/static/js/main.1f70dc30.chunk.js.map",
+    "runtime~main.js": "/sitiodecompras/static/js/runtime~main.ce99052e.js",
+    "runtime~main.js.map": "/sitiodecompras/static/js/runtime~main.ce99052e.js.map",
+    "static/css/2.eacbdd6c.chunk.css": "/sitiodecompras/static/css/2.eacbdd6c.chunk.css",
+    "static/js/2.7807d435.chunk.js": "/sitiodecompras/static/js/2.7807d435.chunk.js",
+    "static/js/2.7807d435.chunk.js.map": "/sitiodecompras/static/js/2.7807d435.chunk.js.map",
+    "index.html": "/sitiodecompras/index.html",
+    "precache-manifest.de8255e85263808de92375fda4cfa0d4.js": "/sitiodecompras/precache-manifest.de8255e85263808de92375fda4cfa0d4.js",
+    "service-worker.js": "/sitiodecompras/service-worker.js",
+    "static/css/2.eacbdd6c.chunk.css.map": "/sitiodecompras/static/css/2.eacbdd6c.chunk.css.map",
+    "static/css/main.faba022c.chunk.css.map": "/sitiodecompras/static/css/main.faba022c.chunk.css.map"
+  }
+}
