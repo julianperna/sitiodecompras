@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98f7f59739052edf25c948c052a7f7df",
+    "revision": "594e5b756cf4f9a695000870d5fae1ab",
     "url": "/sitiodecompras/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sitiodecompras/static/css/2.eacbdd6c.chunk.css"
   },
   {
-    "revision": "af6227685d893e085a08",
+    "revision": "191d4b2fe4e4d8942101",
     "url": "/sitiodecompras/static/css/main.faba022c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sitiodecompras/static/js/2.7807d435.chunk.js"
   },
   {
-    "revision": "af6227685d893e085a08",
-    "url": "/sitiodecompras/static/js/main.1f70dc30.chunk.js"
+    "revision": "191d4b2fe4e4d8942101",
+    "url": "/sitiodecompras/static/js/main.d19b8a16.chunk.js"
   },
   {
     "revision": "e0d8ff58c89516a4a049",

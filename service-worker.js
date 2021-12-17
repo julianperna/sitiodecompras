@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sitiodecompras/precache-manifest.de8255e85263808de92375fda4cfa0d4.js"
+  "/sitiodecompras/precache-manifest.3798e8e32c68f95d3cba744662665443.js"
 );
 
 self.addEventListener('message', (event) => {
